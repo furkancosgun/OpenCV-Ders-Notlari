@@ -1,0 +1,16 @@
+- [Görüntü işleme](https://github.com/Furkannc/OpenCV-Ders-Notlari/tree/main/1_OpenCV%20ile%20G%C3%B6r%C3%BCnt%C3%BC%20%C4%B0%C5%9Fleme)
+	- 
+	- Resim açmak
+	- Video açmak
+	- Kameradan görüntü almak
+	- Kırpmak ,yeniden boyutlandırmak
+	- Şekil ve metin eklemek
+	- Görüntü birleştirmek
+	- Perspektif çarpıtma
+	- Görüntü karşılaştırmak
+	 - Görüntü eşikleme
+   - Bulanıklaştırma
+	- Morfolojik operasyonlar
+	- Gradyanlar
+	- Histogram
+
